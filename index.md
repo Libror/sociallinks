@@ -13,3 +13,4 @@
 |[Steam](https://steamcommunity.com/id/notraffic1/)|
 |[YouTube](https://www.youtube.com/channel/UCZnQmI4BdVceSmaWRe4DwrQ)|
 |[Twitch](https://www.twitch.tv/libroru)|
+|[Discord](https://discord.gg/gHcx4ze)|
