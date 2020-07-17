@@ -11,6 +11,7 @@
 |[Reddit](https://www.reddit.com/user/Libroru)|
 |[Twitter](https://twitter.com/AlexLibroru)|
 |[Steam](https://steamcommunity.com/id/notraffic1/)|
-|[YouTube](https://www.youtube.com/channel/UCZnQmI4BdVceSmaWRe4DwrQ)|
+|[Main YouTube](https://www.youtube.com/channel/UCZnQmI4BdVceSmaWRe4DwrQ)|
+|[Twitch Highlights](https://www.youtube.com/channel/UCvlADCFs54u_UoiImx3H-Tg)|
 |[Twitch](https://www.twitch.tv/libroru)|
 |[Discord](https://discord.gg/gHcx4ze)|
