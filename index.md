@@ -14,4 +14,4 @@
 |[Main YouTube](https://www.youtube.com/channel/UCZnQmI4BdVceSmaWRe4DwrQ)|
 |[Twitch Highlights](https://www.youtube.com/channel/UCvlADCFs54u_UoiImx3H-Tg)|
 |[Twitch](https://www.twitch.tv/libroru)|
-|[Discord](https://discord.gg/gHcx4ze)|
+|[Discord](https://discord.gg/feM8yv5)|
