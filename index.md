@@ -1,7 +1,4 @@
-# Social Links
-
----
-
+|Social Links|
 |:--------:|
 |[Reddit](https://www.reddit.com/user/Libroru)|
 |[Twitter](https://twitter.com/AlexLibroru)|
