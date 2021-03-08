@@ -2,7 +2,6 @@
 
 ---
 
-||
 |:--------:|
 |[Reddit](https://www.reddit.com/user/Libroru)|
 |[Twitter](https://twitter.com/AlexLibroru)|
