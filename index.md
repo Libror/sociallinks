@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-| Socials        |
+| Socials - Libroru  |
 |:-------------:|
 | <image src = "https://clipart.info/images/ccovers/1590430652red-youtube-logo-png-xl.png" width="20px" height="15px"></image>  [YouTube](https://www.youtube.com/channel/UCpNA4-mfV_bhbcjHBPluRpQ) |
 | <image src = "http://assets.stickpng.com/images/580b57fcd9996e24bc43c540.png" width="20px" height="20px"></image>  [Twitch](https://www.twitch.tv/libroru) |
