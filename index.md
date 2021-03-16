@@ -2,6 +2,9 @@
 layout: default
 ---
 
+---
+
+## Check out my social links
 
 | Socials - Libroru  |
 |:-------------:|
@@ -11,6 +14,8 @@ layout: default
 | <image src = "http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" width="20px" height="20px"></image>  [Twitter](https://twitter.com/AlexLibroru)|
 
 ---
+
+## Just my reviews off some tv shows and movies
 
 > Don't judge me, I know my opinion is worthless
 
