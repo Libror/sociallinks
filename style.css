@@ -12,9 +12,13 @@
 }
 
 .content {
+    display: grid;
     font-family: 'Farro', sans-serif;
 }
 
 .image {
-    text-align: center;
+    vertical-align: middle;
+    float: left;
+    height: auto;
+    width: 15px;
 }
